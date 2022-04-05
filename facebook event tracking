@@ -1,0 +1,9 @@
+<script>
+// for tracking custom events
+fbq('trackCustom', 'LeadForm', {value: '50',currency: 'MYR'});
+</script>
+
+<script>
+// for tracking standard events
+fbq('track', 'Lead', {value: '100',currency: 'USD'});
+</script>
