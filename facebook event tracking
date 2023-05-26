@@ -7,3 +7,8 @@ fbq('trackCustom', 'LeadForm', {value: '50',currency: 'MYR'});
 // for tracking standard events
 fbq('track', 'Lead', {value: '100',currency: 'USD'});
 </script>
+
+<script>
+// for tracking standard events
+fbq('track', 'Contact', {value: '20',currency: 'USD'});
+</script>
