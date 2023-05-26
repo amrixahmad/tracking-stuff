@@ -1,3 +1,7 @@
 <script>
 ttq.track('SubmitForm')
 </script>
+
+<script>
+ttq.track('Contact')
+</script>
